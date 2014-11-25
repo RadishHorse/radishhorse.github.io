@@ -11,16 +11,14 @@ summary: Not a tutorial on how Eric Jones made this whole thang
 image: post_one.png
 ---
 
-<div class="row">
-	<div class="span9 columns">
-	  <h2>Preface</h2>
-	  <p>HOLY DIVER it's a blog. Look at that.</p>
+Preface
+-----
+HOLY DIVER it's a blog. Look at that.
 
-	  <h2>In Conclusion</h2>
-	  <p>Wow!</p>
-	  <hr>
-	</div>
-</div>
+In Conclusion
+-----
+Wow!
+
 
 <div class="row">
 	<div class="span9 column">
