@@ -4,11 +4,11 @@
 }
 
 body {
-  margin-top: 15px;
   font-size: 1.5em;
   line-height:1.3em;
   font-family: 'Caudex', serif;
   font-color: #2B2E2E;
+  background-color:#497;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -80,14 +80,27 @@ p.section {
   margin-left:1em;
 }
 
-#header {
-  position: fixed;
-  margin-left:15px;
+.header {
+  background-color:#FFF;
+  padding-left:15px;
+  padding-top:20px;
+  padding-bottom:1px;
+}
+
+.stripe {
+    height:10px;
+    background-color:#A35;
+}
+
+.container {
 
 }
 
 .content {
+    padding:10px;
   margin-left:180px;
+  width: 60%;
+  background-color:#FD9;
 }
 
 .project {
